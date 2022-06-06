@@ -1,0 +1,40 @@
+@media (max-width: 767px) {
+	.lg-display{
+		display: none !important;
+	  }
+	  .mb-display{
+		display: block !important;
+	  }
+	  .captcha{
+		  margin-bottom:20px;
+	  }
+	  .box-border {
+		  width:100%;
+	  }
+	  .mb-center {
+		  text-align: center;
+	  }
+	  .modal-dialog {
+		margin-top: 30%;
+	  }
+	  .popup-close-btn{
+		  right: 5px !important;
+	  }
+	  .modal-body {
+		width: 320px !important;
+		height: 420px !important;
+	}
+	.logo-dark-res {
+		border-radius: 20%;
+		height: 75px !important;
+		width: 75px !important;
+	  }
+
+	  .ml-35-res {
+		margin-left: 35px !important;
+	  }
+
+	  .ml-30-res {
+		margin-left: 30px !important;
+	  }
+}
