@@ -1,10 +1,9 @@
 export const environment = {
   production: true,
-  firebase : {apiKey: "AIzaSyDMfqjZ6Fo4O8dv7Z79pMN64REi7talV5A",
-  authDomain: "vks-trust.firebaseapp.com",
-  projectId: "vks-trust",
-  storageBucket: "vks-trust.appspot.com",
-  messagingSenderId: "15646034500",
-  appId: "1:15646034500:web:00998a1ca3f439a8554a11",
-  measurementId: "G-6CD7LB5R1G"}
+  firebase : {apiKey: "AIzaSyBScY-yPzVwIovmwmfzSDXVgtGY4w6IdMY",
+  authDomain: "vkstrust-mdu.firebaseapp.com",
+  projectId: "vkstrust-mdu",
+  storageBucket: "vkstrust-mdu.appspot.com",
+  messagingSenderId: "1039061737126",
+  appId: "1:1039061737126:web:a150b1a45cca9ab67e1e67"}
 };

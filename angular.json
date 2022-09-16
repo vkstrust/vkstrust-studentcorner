@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "VKS TRUST": {
+    "VKS-TRUST": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -75,10 +75,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "VKS TRUST:build:production"
+              "browserTarget": "VKS-TRUST:build:production"
             },
             "development": {
-              "browserTarget": "VKS TRUST:build:development"
+              "browserTarget": "VKS-TRUST:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -86,7 +86,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "VKS TRUST:build"
+            "browserTarget": "VKS-TRUST:build"
           }
         },
         "test": {
@@ -110,5 +110,5 @@
       }
     }
   },
-  "defaultProject": "VKS TRUST"
+  "defaultProject": "VKS-TRUST"
 }
